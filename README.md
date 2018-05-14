@@ -1,3 +1,8 @@
+# View DB
+* [View All Startup Jobs](http://htmlpreview.github.io/?https://github.com/orowealth/startupJobs/blob/master/companies.html)
+# HOWTO
+### How to add your comapany entry here
+
 This is an attempt to create a crowd sourced, public and open database of the
 companies trying to create employment.
 
