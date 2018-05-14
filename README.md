@@ -6,7 +6,7 @@
 This is an attempt to create a crowd sourced, public and open database of the
 companies trying to create employment.
 
-* For companies
+## For companies
 
 1. Git clone with official company email ID.
 2. Add new entry in following table or one can edit its existing entry.
@@ -14,7 +14,7 @@ companies trying to create employment.
 
 *Guys please be nice. Add new entriess at the end.*
 
-* For Job seekers
+## For Job seekers
 
 1. Just Refresh the page
 2. Or git pull
