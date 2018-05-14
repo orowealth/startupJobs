@@ -12,6 +12,7 @@ companies trying to create employment.
 2. Add new entry in following table or one can edit its existing entry.
 3. Git push or raise pull.
 
+*Guys please be nice. Add new entriess at the end.*
 
 * For Job seekers
 
